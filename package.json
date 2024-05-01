@@ -8,6 +8,7 @@
   "author": "SEFA UN",
   "license": "ISC",
   "workspaces": [
+    "common/*",
     "backend/*",
     "frontend/*"
   ]
